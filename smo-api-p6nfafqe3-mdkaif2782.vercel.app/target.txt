@@ -1,0 +1,1 @@
+http://smo-api-p6nfafqe3-mdkaif2782.vercel.app:80/questions?round=selection&category=D (GET)  # .\sqlmap.py -r .\postReqs\smo

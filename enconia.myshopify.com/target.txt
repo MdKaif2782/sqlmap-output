@@ -1,0 +1,1 @@
+http://enconia.myshopify.com:80/search?type=product&q=yooooooooooooo (GET)  # .\sqlmap.py -r .\postReqs\enconia --level 3 --risk 3

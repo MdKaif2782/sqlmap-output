@@ -1,0 +1,1 @@
+http://www.northsouth.edu:80/search.html?search=sdssdfsdf&id=7675 (GET)  # .\sqlmap.py -r .\postReqs\nsu

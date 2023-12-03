@@ -1,0 +1,2 @@
+Id,BusinessId,ToCourseId,ToProgramId,ToSessionId,FromCourseId,FromProgramId,FromSessionId,ToOrganizationId,FromOrganizationId,CreateBy,ModifyBy,Status,CreationDate,VersionNumber,ModificationDate,ToCoursePriority,FromCoursePriority
+
